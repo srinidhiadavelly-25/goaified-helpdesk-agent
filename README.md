@@ -2,6 +2,9 @@
 
 An AI assistant that answers employee **HR and IT questions** from company policy documents (RAG), retrieves **employee-specific information securely** from PostgreSQL through an **MCP server**, and **blocks unsafe or unrelated requests** with layered guardrails. It's orchestrated as a **LangGraph** agent and served with **Streamlit**.
 
+🎥 **Demo video:** 
+https://www.loom.com/share/917a796c52ac4e11bbf68de833327288
+
 > ⚠️ All policies and employee records in this repository are **synthetic**. No real company or personal data is used.
 
 ---
